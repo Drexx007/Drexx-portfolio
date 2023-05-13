@@ -1,0 +1,16 @@
+.body {
+    background-image: url("https://images.hdqwalls.com/wallpapers/astronaut-planet-science-ficition-dark-ig.jpg");
+    background-position: center;
+    background-size: 1500px;
+    background-repeat: no-repeat;
+    background-position-y: 0px;
+    background-attachment: fixed;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 30%;
+    font-family: Tahoma;
+}
+
+.icon {
+    height: 2%;
+    width:2%
+}
